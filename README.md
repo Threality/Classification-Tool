@@ -19,6 +19,6 @@ To use it you will give it a CSV file where the last column is the one you want 
 - Interpret the tree (classify or predict data)
 - Implement calling from command line
 
-### Weather Classification Data
+## Weather Classification Data
 
 This is the database I have been using to test the program. It is super basic and contains 13000 separate data points.
